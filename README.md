@@ -1,4 +1,4 @@
-## Pingchuan Ma's project 1
+## Mumsh shell project
 
 [![Build Status](https://focs.ji.sjtu.edu.cn:2222/api/badges/ECE482-22/PingchuanMa519370910019-p1/status.svg?ref=refs/heads/master)](https://focs.ji.sjtu.edu.cn:2222/ECE482-22/PingchuanMa519370910019-p1)
 
