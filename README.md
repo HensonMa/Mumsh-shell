@@ -23,8 +23,6 @@ The main code structure and logic are as follows.
 
 #### II. Build & installation instruction
 ```shell
-$ git remote add origin ssh://git@focs.ji.sjtu.edu.cn:2222/ECE482-22/PingchuanMa519370910019-p1.git
-$ git pull origin master
 $ mkdir cmake-build-debug && cd cmake-build-debug
 $ cmake -DCMAKE_C_COMPILER=clang ..
 $ make
